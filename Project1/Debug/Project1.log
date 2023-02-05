@@ -1,0 +1,5 @@
+﻿  Assembling source.asm...
+source.asm(62): error A2016: expression expected
+source.asm(107): error A2016: expression expected
+source.asm(111): error A2016: expression expected
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\source.obj" /W3 /errorReport:prompt  /Tasource.asm" exited with code 1.
